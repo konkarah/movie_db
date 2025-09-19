@@ -3,7 +3,7 @@
 
 A responsive movie recommendation platform built with **Next.js** and **Tailwind CSS**, featuring secure authentication with **Clerk**, dynamic movie listings, and personalized user features.
 
-[Live Demo](https://cinescope-md.vercel.app/) | [GitHub Repo]https://github.com/konkarah/movie_db.git) | [Author](https://www.linkedin.com/in/thindi/)
+[Live Demo](https://movie-db-ten-dun.vercel.app/) | [GitHub Repo]https://github.com/konkarah/movie_db.git) | [Author](https://www.linkedin.com/in/thindi/)
 
 ---
 
@@ -147,7 +147,7 @@ Vercel handles the production deployment based on the latest main branch.
 
 🌐 Live Deployments
 
-Vercel (Production): https://cinescope-md.vercel.app/
+Vercel (Production): https://movie-db-ten-dun.vercel.app/
 
 AWS Amplify (Alternate Hosting): https://main.dy5bt2m6cp7h7.amplifyapp.com/
 

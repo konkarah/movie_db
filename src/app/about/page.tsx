@@ -213,7 +213,7 @@ const page = () => {
 							</button>
 							<button className="border-2 border-white/20 text-white px-8 py-4 rounded-xl font-semibold text-lg hover:border-purple-500 hover:bg-white/5 transition-all duration-200">
 								<Link
-									href="https://devkoech.vercel.app/client"
+									href="https://thindi.vercel.app/"
 									rel="noopener noreferrer"
 									className="text-indigo-600 hover:underline hover:opacity-90 transition-opacity"
 								>
