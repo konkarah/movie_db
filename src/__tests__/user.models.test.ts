@@ -10,8 +10,8 @@ const mockUser = {
   _id: "64fe8b3f8f1a4d0012345678",
   clerkId: "clerk123",
   email: "test@example.com",
-  firstName: "Emmanuel",
-  lastName: "Koech",
+  firstName: "Lawrence",
+  lastName: "Thindi",
   profilePicture: "profile.jpg",
   favs: [
     {
@@ -58,7 +58,7 @@ describe("User Model Mongoose Operations", () => {
 
     const result = await User.findOneAndUpdate(
       { clerkId: "clerk123" },
-      { $set: { firstName: "Emmanuel" } },
+      { $set: { firstName: "Lawrence" } },
       { upsert: true, new: true }
     );
 

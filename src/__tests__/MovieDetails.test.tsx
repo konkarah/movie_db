@@ -41,7 +41,7 @@ vi.mock("@clerk/nextjs", () => ({
     isLoaded: true,
     user: { 
       id: "123", 
-      firstName: "Emmanuel",
+      firstName: "Lawrence",
       publicMetadata: { favs: [] }
     },
   }),

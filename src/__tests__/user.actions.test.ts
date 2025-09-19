@@ -21,7 +21,7 @@ import { describe, it, expect, vi, beforeEach } from "vitest";
 const mockUser = {
   _id: "1",
   clerkId: "clerk123",
-  name: "Emmanuel",
+  name: "lawrence",
   favs: [{ name: "movie1" }, { name: "movie2" }],
 };
 
@@ -50,7 +50,7 @@ describe("User Model Mongoose Operations", () => {
 
     const result = await User.findOneAndUpdate(
       { clerkId: "clerk123" },
-      { $set: { name: "Emmanuel" } },
+      { $set: { name: "Lawrence" } },
       { upsert: true, new: true }
     );
 

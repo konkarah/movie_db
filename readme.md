@@ -3,7 +3,7 @@
 
 A responsive movie recommendation platform built with **Next.js** and **Tailwind CSS**, featuring secure authentication with **Clerk**, dynamic movie listings, and personalized user features.
 
-[Live Demo](https://cinescope-md.vercel.app/) | [GitHub Repo](https://github.com/Emmanuel687/Next.js-Movies-Recommendation.git) | [Author](https://www.linkedin.com/in/emmanuel-koech-79368b21a/)
+[Live Demo](https://cinescope-md.vercel.app/) | [GitHub Repo]https://github.com/konkarah/movie_db.git) | [Author](https://www.linkedin.com/in/thindi/)
 
 ---
 
@@ -65,7 +65,7 @@ A responsive movie recommendation platform built with **Next.js** and **Tailwind
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Emmanuel687/Next.js-Movies-Recommendation.git
+git clone https://github.com/konkarah/movie_db.git
 cd Next.js-Movies-Recommendation
 
 ### 2️⃣ Install Dependencies

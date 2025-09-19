@@ -70,12 +70,12 @@ const Footer = () => {
               <Heart className="w-3 h-3 text-pink-500 animate-bounce" />
               by
               <Link
-                href="https://www.linkedin.com/in/emmanuel-koech-79368b21a/"
+                href="https://www.linkedin.com/in/thindi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-indigo-600 hover:underline hover:opacity-90 transition-opacity ml-1"
               >
-                Emmanuel
+                Lawrence
               </Link>
             </p>
           </div>
